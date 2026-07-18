@@ -1,18 +1,14 @@
 class Solution {
     public boolean checkString(String s) {
-        boolean seenB = false;
-
-        for (int i = 0; i < s.length(); i++) {
-            
-            if (s.charAt(i) == 'b') {
-                seenB = true;
+        int count=0;
+        for (int i=1;i<s.length();i++){
+            char ch = s.charAt(i);
+                          
+            if(s.charAt(i-1)=='b' && ch=='a'){
+                count++;
             }
             
-            if (s.charAt(i) == 'a' && seenB) {
-                return false;
-            }
         }
-
-        return true;
+        return count<1;
     }
 }
