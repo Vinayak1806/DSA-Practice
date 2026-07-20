@@ -8,12 +8,10 @@ class Solution {
 
         for (int i = 0; i < nums.length - 2; i++) {
 
-            // Skip duplicate fixed numbers
             if (i > 0 && nums[i] == nums[i - 1]) {
                 continue;
             }
 
-            // No triplet is possible after this
             if (nums[i] > 0) {
                 break;
             }
@@ -32,12 +30,10 @@ class Solution {
                     int leftValue = nums[left];
                     int rightValue = nums[right];
 
-                    // Skip duplicate left values
                     while (left < right && nums[left] == leftValue) {
                         left++;
                     }
 
-                    // Skip duplicate right values
                     while (left < right && nums[right] == rightValue) {
                         right--;
                     }
