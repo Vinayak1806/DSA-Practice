@@ -4,7 +4,7 @@ class Solution {
         int [] result = new int[nums.length];
         int k=0;
 
-        while(k != nums.length)
+        while(k < nums.length)
         {
         int count=0;
 
