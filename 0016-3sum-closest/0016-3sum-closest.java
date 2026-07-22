@@ -15,7 +15,7 @@ class Solution {
                 int sum = nums[i] + nums[left] + nums[right];
 
                 int diff = Math.abs(sum - target);
-
+                
                 if (diff < maxDiff) {
                     maxDiff = diff;
                     maxi = sum;
@@ -23,8 +23,11 @@ class Solution {
 
                 if (sum < target) {
                     left++;
-                } else  {
+                } else if (sum > target) {
                     right--;
+                } else {
+                    
+                    return sum;
                 }
             }
         }
