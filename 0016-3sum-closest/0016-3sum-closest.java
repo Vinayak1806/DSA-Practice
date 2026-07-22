@@ -13,7 +13,9 @@ class Solution {
 
             while (left < right) {
                 int sum = nums[i] + nums[left] + nums[right];
+
                 int diff = Math.abs(sum - target);
+
                 if (diff < maxDiff) {
                     maxDiff = diff;
                     maxi = sum;
@@ -21,11 +23,8 @@ class Solution {
 
                 if (sum < target) {
                     left++;
-                } else if (sum > target) {
+                } else  {
                     right--;
-                } else {
-                    
-                    return sum;
                 }
             }
         }
