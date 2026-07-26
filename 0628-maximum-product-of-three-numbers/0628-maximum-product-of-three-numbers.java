@@ -35,7 +35,7 @@ class Solution {
                 small=nums[i];
             }
         }     
-        int Masi = Math.max(largest * thirdLargest * secondLargest, largest* small* smallest)  ;
-        return Masi;
+        return Math.max(largest * thirdLargest * secondLargest, largest* small* smallest)  ;
+        
     }
 }
