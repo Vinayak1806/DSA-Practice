@@ -5,7 +5,7 @@ class Solution {
 
         for(int i=0;i<nums.length;i++)
         {
-            if(nums[i]>=largest){
+            if(nums[i]>largest){
                 secondlargest=largest;
                 largest=nums[i];
             }
@@ -13,7 +13,7 @@ class Solution {
                 secondlargest=nums[i];
             }
         }
-        return ((largest-1) * (secondlargest-1));
+        return (largest-1) * (secondlargest-1);
         
     }
 }
