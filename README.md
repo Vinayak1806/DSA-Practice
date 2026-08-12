@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Vinayak1806/DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vinayak1806/DSA-Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vinayak1806/DSA-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1480-running-sum-of-1d-array](https://github.com/Vinayak1806/DSA-Practice/tree/master/1480-running-sum-of-1d-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Vinayak1806/DSA-Practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Vinayak1806/DSA-Practice/tree/master/2094-finding-3-digit-even-numbers) |
 ## Hash Table
@@ -109,4 +110,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Vinayak1806/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
+| [1480-running-sum-of-1d-array](https://github.com/Vinayak1806/DSA-Practice/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
