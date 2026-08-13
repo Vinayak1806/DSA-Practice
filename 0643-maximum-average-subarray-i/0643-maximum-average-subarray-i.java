@@ -11,11 +11,11 @@ class Solution {
        result=sum;
        for(int i=k; i<nums.length;i++)
        {
-        result=Math.max(result,sum);
+        
         sum=sum-nums[i-k]+nums[i];
+        result=Math.max(result,sum);
         
        }
-       result=Math.max(result,sum);
        return (double)result/k;
     }
 }
