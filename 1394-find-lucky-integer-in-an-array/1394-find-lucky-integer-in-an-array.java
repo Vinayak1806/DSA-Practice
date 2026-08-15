@@ -1,9 +1,8 @@
 class Solution {
     public int findLucky(int[] arr) {
        
-        int result = -1;
+        int result = -1;        
         HashMap <Integer,Integer> map = new HashMap<>();
-
         for(int high=0;high<arr.length;high++)
         {
             map.put(arr[high],map.getOrDefault(arr[high],0)+1);
