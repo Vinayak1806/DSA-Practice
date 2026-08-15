@@ -8,7 +8,7 @@ class Solution {
             char hg= s.charAt(high);
             map.put(hg,map.getOrDefault(hg,0)+1);
 
-            int k = high-low+1;
+           
             while(map.get(hg)>1)
             {
                 char lw= s.charAt(low);
@@ -18,7 +18,7 @@ class Solution {
                     map.remove(low);
                 }
                 low++;
-                k = high-low+1;
+                
             }
             result=Math.max(result,high-low+1);
         }
