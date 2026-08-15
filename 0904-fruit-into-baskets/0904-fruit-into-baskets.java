@@ -1,12 +1,11 @@
 class Solution {
     public int totalFruit(int[] fruits) {
         int low =0;
-        int sum=0;
         int result=0;
 
         HashMap <Integer,Integer> map = new HashMap<>();
 
-        for(int high =0 ;high<fruits.length;high++)
+        for(int high = 0 ;high<fruits.length;high++)
         {
             map.put(fruits[high],map.getOrDefault(fruits[high],0)+1);
 
