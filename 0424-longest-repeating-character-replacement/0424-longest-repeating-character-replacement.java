@@ -3,6 +3,7 @@ class Solution {
         int left =0;
         int maxfreq=0;
         int maxlength=0;
+        int required=0;
 
         int [] frequency = new int[26];
 
@@ -12,7 +13,7 @@ class Solution {
 
             maxfreq=Math.max(maxfreq,frequency[s.charAt(right) - 'A']);
 
-            int required= (right-left+1) - maxfreq;
+            required= (right-left+1) - maxfreq;
 
             while(required>k)
             {
