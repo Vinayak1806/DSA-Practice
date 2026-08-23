@@ -10,13 +10,13 @@ class Solution
 
         while(high<nums.length)
         {
-            sum = sum+nums[high];
+            sum += nums[high];
 
             while(sum>=target)
             {
                 int len=high-low+1;
                 result=Math.min(len,result);
-                sum=sum-nums[low];
+                sum-=nums[low];
                 low++;
             }
             high++;
