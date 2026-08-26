@@ -2,7 +2,7 @@ class Solution {
     public String shortestBeautifulSubstring(String s, int k) {
         int low = 0;
         int count = 0;
-        int result = s.length() + 1;
+        int result = s.length();
         int start = 0;
         boolean flag = false;
 
@@ -11,17 +11,17 @@ class Solution {
             if (s.charAt(i) == '1') {
                 count++;
             }
-
             while (count == k) {
                 flag = true;
-
                 int len = i - low + 1;
 
-                if (result > len) {
+                if (result > len) 
+                {
                     start = low;
                     result = len;
                 } 
-                else if (result == len) {
+                else if (result == len) 
+                {
                     String current = s.substring(low, i + 1);
                     String previous = s.substring(start, start + result);
 
