@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Vinayak1806/DSA-Practice/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Vinayak1806/DSA-Practice/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Vinayak1806/DSA-Practice/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Vinayak1806/DSA-Practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Vinayak1806/DSA-Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Vinayak1806/DSA-Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Vinayak1806/DSA-Practice/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Vinayak1806/DSA-Practice/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Vinayak1806/DSA-Practice/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Vinayak1806/DSA-Practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Vinayak1806/DSA-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Vinayak1806/DSA-Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Prefix Sum
