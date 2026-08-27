@@ -207,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Vinayak1806/DSA-Practice/tree/master/0046-permutations) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Vinayak1806/DSA-Practice/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
