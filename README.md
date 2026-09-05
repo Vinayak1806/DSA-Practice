@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Vinayak1806/DSA-Practice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vinayak1806/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Vinayak1806/DSA-Practice/tree/master/0076-minimum-window-substring) |
+| [0141-linked-list-cycle](https://github.com/Vinayak1806/DSA-Practice/tree/master/0141-linked-list-cycle) |
 | [0424-longest-repeating-character-replacement](https://github.com/Vinayak1806/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Vinayak1806/DSA-Practice/tree/master/0904-fruit-into-baskets) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vinayak1806/DSA-Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Vinayak1806/DSA-Practice/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Vinayak1806/DSA-Practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Vinayak1806/DSA-Practice/tree/master/0088-merge-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/Vinayak1806/DSA-Practice/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vinayak1806/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Vinayak1806/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Vinayak1806/DSA-Practice/tree/master/0344-reverse-string) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Vinayak1806/DSA-Practice/tree/master/0141-linked-list-cycle) |
 | [0287-find-the-duplicate-number](https://github.com/Vinayak1806/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 ## String Matching
 |  |
@@ -222,4 +225,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0511-game-play-analysis-i](https://github.com/Vinayak1806/DSA-Practice/tree/master/0511-game-play-analysis-i) |
 | [0584-find-customer-referee](https://github.com/Vinayak1806/DSA-Practice/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Vinayak1806/DSA-Practice/tree/master/0595-big-countries) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Vinayak1806/DSA-Practice/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
