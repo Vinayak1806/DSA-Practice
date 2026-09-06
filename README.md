@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vinayak1806/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Vinayak1806/DSA-Practice/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/Vinayak1806/DSA-Practice/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Vinayak1806/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Vinayak1806/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Vinayak1806/DSA-Practice/tree/master/0904-fruit-into-baskets) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vinayak1806/DSA-Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Vinayak1806/DSA-Practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Vinayak1806/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Vinayak1806/DSA-Practice/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Vinayak1806/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vinayak1806/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Vinayak1806/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Vinayak1806/DSA-Practice/tree/master/0344-reverse-string) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Vinayak1806/DSA-Practice/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Vinayak1806/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Vinayak1806/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 ## String Matching
 |  |
@@ -231,4 +234,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Vinayak1806/DSA-Practice/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Vinayak1806/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
