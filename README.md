@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Vinayak1806/DSA-Practice/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/Vinayak1806/DSA-Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Vinayak1806/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/Vinayak1806/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Vinayak1806/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Vinayak1806/DSA-Practice/tree/master/0904-fruit-into-baskets) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vinayak1806/DSA-Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Vinayak1806/DSA-Practice/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/Vinayak1806/DSA-Practice/tree/master/0076-minimum-window-substring) |
 | [0344-reverse-string](https://github.com/Vinayak1806/DSA-Practice/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Vinayak1806/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Vinayak1806/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0541-reverse-string-ii](https://github.com/Vinayak1806/DSA-Practice/tree/master/0541-reverse-string-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Vinayak1806/DSA-Practice/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Vinayak1806/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vinayak1806/DSA-Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Vinayak1806/DSA-Practice/tree/master/1394-find-lucky-integer-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Vinayak1806/DSA-Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -235,4 +238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Vinayak1806/DSA-Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Vinayak1806/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Vinayak1806/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
