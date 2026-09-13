@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Vinayak1806/DSA-Practice/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vinayak1806/DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vinayak1806/DSA-Practice/tree/master/1004-max-consecutive-ones-iii) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Vinayak1806/DSA-Practice/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Vinayak1806/DSA-Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Vinayak1806/DSA-Practice/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vinayak1806/DSA-Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -272,4 +273,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Vinayak1806/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Vinayak1806/DSA-Practice/tree/master/0152-maximum-product-subarray) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Vinayak1806/DSA-Practice/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 <!---LeetCode Topics End-->
