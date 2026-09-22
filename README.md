@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Vinayak1806/DSA-Practice/tree/master/1480-running-sum-of-1d-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Vinayak1806/DSA-Practice/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Vinayak1806/DSA-Practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1991-find-the-middle-index-in-array](https://github.com/Vinayak1806/DSA-Practice/tree/master/1991-find-the-middle-index-in-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Vinayak1806/DSA-Practice/tree/master/2094-finding-3-digit-even-numbers) |
 | [2574-left-and-right-sum-differences](https://github.com/Vinayak1806/DSA-Practice/tree/master/2574-left-and-right-sum-differences) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Vinayak1806/DSA-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Vinayak1806/DSA-Practice/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vinayak1806/DSA-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/Vinayak1806/DSA-Practice/tree/master/1480-running-sum-of-1d-array) |
+| [1991-find-the-middle-index-in-array](https://github.com/Vinayak1806/DSA-Practice/tree/master/1991-find-the-middle-index-in-array) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Vinayak1806/DSA-Practice/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2574-left-and-right-sum-differences](https://github.com/Vinayak1806/DSA-Practice/tree/master/2574-left-and-right-sum-differences) |
 | [3903-smallest-stable-index-i](https://github.com/Vinayak1806/DSA-Practice/tree/master/3903-smallest-stable-index-i) |
