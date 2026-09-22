@@ -23,7 +23,6 @@ class Solution {
         {
             nums[i]=Math.abs(left[i]-right[i]);
         }
-
         return nums;
     }
 }
