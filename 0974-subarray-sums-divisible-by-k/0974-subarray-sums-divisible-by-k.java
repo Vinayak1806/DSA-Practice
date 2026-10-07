@@ -1,28 +1,29 @@
 class Solution {
     public int subarraysDivByK(int[] nums, int k) {
+        HashMap<Integer,Integer> map = new HashMap<>();
 
-        int[] freq = new int[k];
+        map.put (0 ,1);
 
-        // Remainder 0 has already appeared once
-        freq[0] = 1;
+        int sum = 0;
+        int result = 0;
+        
+        for(int num:nums)
+        {
+            sum+=num;
+            int rem= sum % k;
+            if(rem<0)
+            {
+                rem= rem + k;
+            }
 
-        int prefixSum = 0;
-        int count = 0;
+            if(map.containsKey(rem))
+            {
+                result+= map.get(rem);
+            }
 
-        for (int num : nums) {
-
-            prefixSum += num;
-
-            int remainder = (prefixSum % k + k) % k;
-
-            // If we have seen this remainder before,
-            // those previous prefix sums form valid subarrays
-            count += freq[remainder];
-
-            // Store this remainder
-            freq[remainder]++;
+            map.put(rem,map.getOrDefault(rem,0)+1);
         }
+        return result;
 
-        return count;
     }
 }
