@@ -7,7 +7,7 @@ class Solution {
 
         int prefixSum = 0;
         int count = 0;
-
+        
         for (int num : nums) {
 
             prefixSum += num;
