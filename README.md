@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Vinayak1806/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Vinayak1806/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/Vinayak1806/DSA-Practice/tree/master/0414-third-maximum-number) |
+| [0523-continuous-subarray-sum](https://github.com/Vinayak1806/DSA-Practice/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Vinayak1806/DSA-Practice/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Vinayak1806/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vinayak1806/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Vinayak1806/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vinayak1806/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Vinayak1806/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
+| [0523-continuous-subarray-sum](https://github.com/Vinayak1806/DSA-Practice/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Vinayak1806/DSA-Practice/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Vinayak1806/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Vinayak1806/DSA-Practice/tree/master/0904-fruit-into-baskets) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Vinayak1806/DSA-Practice/tree/master/0007-reverse-integer) |
 | [0202-happy-number](https://github.com/Vinayak1806/DSA-Practice/tree/master/0202-happy-number) |
+| [0523-continuous-subarray-sum](https://github.com/Vinayak1806/DSA-Practice/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vinayak1806/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Vinayak1806/DSA-Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3536-maximum-product-of-two-digits](https://github.com/Vinayak1806/DSA-Practice/tree/master/3536-maximum-product-of-two-digits) |
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Vinayak1806/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
+| [0523-continuous-subarray-sum](https://github.com/Vinayak1806/DSA-Practice/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Vinayak1806/DSA-Practice/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Vinayak1806/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Vinayak1806/DSA-Practice/tree/master/0713-subarray-product-less-than-k) |
@@ -235,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Vinayak1806/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
+| [0523-continuous-subarray-sum](https://github.com/Vinayak1806/DSA-Practice/tree/master/0523-continuous-subarray-sum) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
