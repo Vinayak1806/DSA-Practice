@@ -3,13 +3,7 @@ class Solution {
 
        int [][] temp = new int [intervals.length+1][2];
 
-       if(intervals.length == 0)
-       {
-         int [][] m =new int[1][2];
-         m[0][0] = newintervals[0];
-         m[0][1] = newintervals[1];
-         return m;
-       }
+       
         int i = 0;
         while(i<intervals.length)
         {
