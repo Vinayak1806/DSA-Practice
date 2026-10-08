@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Vinayak1806/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Vinayak1806/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0541-reverse-string-ii](https://github.com/Vinayak1806/DSA-Practice/tree/master/0541-reverse-string-ii) |
+| [1021-remove-outermost-parentheses](https://github.com/Vinayak1806/DSA-Practice/tree/master/1021-remove-outermost-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Vinayak1806/DSA-Practice/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Vinayak1806/DSA-Practice/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Vinayak1806/DSA-Practice/tree/master/2124-check-if-all-as-appears-before-all-bs) |
@@ -328,4 +329,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Vinayak1806/DSA-Practice/tree/master/0056-merge-intervals) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Vinayak1806/DSA-Practice/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Vinayak1806/DSA-Practice/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
