@@ -1,10 +1,10 @@
 class Solution {
     public String removeDuplicates(String s) {
-        int n = s.length();
+        
         Stack <Character> st = new Stack<>();
         StringBuilder res = new StringBuilder();
 
-        for(int i=0; i<n;i++)
+        for(int i=0; i<s.length();i++)
         {
             char ch = s.charAt(i);
 
