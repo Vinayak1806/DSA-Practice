@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Vinayak1806/DSA-Practice/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Vinayak1806/DSA-Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vinayak1806/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
+| [0402-remove-k-digits](https://github.com/Vinayak1806/DSA-Practice/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Vinayak1806/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0541-reverse-string-ii](https://github.com/Vinayak1806/DSA-Practice/tree/master/0541-reverse-string-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/Vinayak1806/DSA-Practice/tree/master/1021-remove-outermost-parentheses) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Vinayak1806/DSA-Practice/tree/master/0011-container-with-most-water) |
+| [0402-remove-k-digits](https://github.com/Vinayak1806/DSA-Practice/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/Vinayak1806/DSA-Practice/tree/master/0435-non-overlapping-intervals) |
 ## Sliding Window
 |  |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vinayak1806/DSA-Practice/tree/master/0020-valid-parentheses) |
+| [0402-remove-k-digits](https://github.com/Vinayak1806/DSA-Practice/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/Vinayak1806/DSA-Practice/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Vinayak1806/DSA-Practice/tree/master/0739-daily-temperatures) |
 | [1021-remove-outermost-parentheses](https://github.com/Vinayak1806/DSA-Practice/tree/master/1021-remove-outermost-parentheses) |
@@ -367,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Vinayak1806/DSA-Practice/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/Vinayak1806/DSA-Practice/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Vinayak1806/DSA-Practice/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Vinayak1806/DSA-Practice/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
