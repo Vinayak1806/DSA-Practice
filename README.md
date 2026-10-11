@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Vinayak1806/DSA-Practice/tree/master/0007-reverse-integer) |
 | [0202-happy-number](https://github.com/Vinayak1806/DSA-Practice/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/Vinayak1806/DSA-Practice/tree/master/0258-add-digits) |
 | [0523-continuous-subarray-sum](https://github.com/Vinayak1806/DSA-Practice/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vinayak1806/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Vinayak1806/DSA-Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Vinayak1806/DSA-Practice/tree/master/0258-add-digits) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Vinayak1806/DSA-Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Vinayak1806/DSA-Practice/tree/master/3498-reverse-degree-of-a-string) |
 | [3959-check-good-integer](https://github.com/Vinayak1806/DSA-Practice/tree/master/3959-check-good-integer) |
@@ -380,4 +382,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Vinayak1806/DSA-Practice/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Vinayak1806/DSA-Practice/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Vinayak1806/DSA-Practice/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Vinayak1806/DSA-Practice/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
