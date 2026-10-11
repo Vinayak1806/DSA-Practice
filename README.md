@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/Vinayak1806/DSA-Practice/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2235-add-two-integers](https://github.com/Vinayak1806/DSA-Practice/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/Vinayak1806/DSA-Practice/tree/master/2469-convert-the-temperature) |
+| [2652-sum-multiples](https://github.com/Vinayak1806/DSA-Practice/tree/master/2652-sum-multiples) |
 | [3536-maximum-product-of-two-digits](https://github.com/Vinayak1806/DSA-Practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Vinayak1806/DSA-Practice/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/Vinayak1806/DSA-Practice/tree/master/3870-count-commas-in-range) |
