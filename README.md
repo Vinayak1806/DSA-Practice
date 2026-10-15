@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Vinayak1806/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vinayak1806/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Vinayak1806/DSA-Practice/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/Vinayak1806/DSA-Practice/tree/master/0682-baseball-game) |
 | [0713-subarray-product-less-than-k](https://github.com/Vinayak1806/DSA-Practice/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Vinayak1806/DSA-Practice/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Vinayak1806/DSA-Practice/tree/master/0739-daily-temperatures) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Vinayak1806/DSA-Practice/tree/master/0258-add-digits) |
+| [0682-baseball-game](https://github.com/Vinayak1806/DSA-Practice/tree/master/0682-baseball-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Vinayak1806/DSA-Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Vinayak1806/DSA-Practice/tree/master/3498-reverse-degree-of-a-string) |
 | [3959-check-good-integer](https://github.com/Vinayak1806/DSA-Practice/tree/master/3959-check-good-integer) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Vinayak1806/DSA-Practice/tree/master/0020-valid-parentheses) |
 | [0402-remove-k-digits](https://github.com/Vinayak1806/DSA-Practice/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/Vinayak1806/DSA-Practice/tree/master/0503-next-greater-element-ii) |
+| [0682-baseball-game](https://github.com/Vinayak1806/DSA-Practice/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Vinayak1806/DSA-Practice/tree/master/0739-daily-temperatures) |
 | [1021-remove-outermost-parentheses](https://github.com/Vinayak1806/DSA-Practice/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Vinayak1806/DSA-Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
