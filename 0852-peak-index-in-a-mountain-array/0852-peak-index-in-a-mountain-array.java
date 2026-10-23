@@ -2,7 +2,6 @@ class Solution {
     public int peakIndexInMountainArray(int[] arr) {
      int low = 0;
      int high= arr.length-1;
-     int result = 0;
      int peek=0;
      while(low<high)
      {
@@ -14,7 +13,6 @@ class Solution {
         }
         else
         {
-            result = peek;
             high=peek;
         }
       }  
