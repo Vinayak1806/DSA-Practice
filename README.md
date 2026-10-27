@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Vinayak1806/DSA-Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Vinayak1806/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Vinayak1806/DSA-Practice/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/Vinayak1806/DSA-Practice/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/Vinayak1806/DSA-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Vinayak1806/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Vinayak1806/DSA-Practice/tree/master/0268-missing-number) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vinayak1806/DSA-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Vinayak1806/DSA-Practice/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/Vinayak1806/DSA-Practice/tree/master/0076-minimum-window-substring) |
+| [0205-isomorphic-strings](https://github.com/Vinayak1806/DSA-Practice/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Vinayak1806/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Vinayak1806/DSA-Practice/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Vinayak1806/DSA-Practice/tree/master/0345-reverse-vowels-of-a-string) |
