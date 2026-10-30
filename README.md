@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Vinayak1806/DSA-Practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Vinayak1806/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Vinayak1806/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/Vinayak1806/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/Vinayak1806/DSA-Practice/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/Vinayak1806/DSA-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0503-next-greater-element-ii](https://github.com/Vinayak1806/DSA-Practice/tree/master/0503-next-greater-element-ii) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Vinayak1806/DSA-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Vinayak1806/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Vinayak1806/DSA-Practice/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Vinayak1806/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Vinayak1806/DSA-Practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vinayak1806/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Vinayak1806/DSA-Practice/tree/master/0409-longest-palindrome) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Vinayak1806/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/Vinayak1806/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Vinayak1806/DSA-Practice/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Vinayak1806/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/Vinayak1806/DSA-Practice/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/Vinayak1806/DSA-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vinayak1806/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Vinayak1806/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Vinayak1806/DSA-Practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vinayak1806/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Vinayak1806/DSA-Practice/tree/master/1189-maximum-number-of-balloons) |
@@ -263,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Vinayak1806/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vinayak1806/DSA-Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Greedy
 |  |
@@ -396,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Vinayak1806/DSA-Practice/tree/master/0053-maximum-subarray) |
+| [0347-top-k-frequent-elements](https://github.com/Vinayak1806/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Vinayak1806/DSA-Practice/tree/master/0918-maximum-sum-circular-subarray) |
 ## Dynamic Programming
 |  |
@@ -455,4 +461,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Vinayak1806/DSA-Practice/tree/master/0852-peak-index-in-a-mountain-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Vinayak1806/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Vinayak1806/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
